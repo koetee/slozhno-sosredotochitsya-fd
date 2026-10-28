@@ -59,6 +59,7 @@
   gap: 10px;
   color: var(--decoration-color, #ff0070);
   line-height: 1.3889;
+  text-transform: uppercase;
 }
 
 .header__record::after {
